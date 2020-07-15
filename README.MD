@@ -8,7 +8,7 @@ a template which is easy to setup and connet with your email.
 1. Fork the repo.
 2. Install required modules/dependencies.
 3. Modify index.js file to connect to your email.
-4. Deploy on your favourite platform(Heroku/GCP/Aws...).
+4. [Deploy](#deploy-on-heroku) on your favourite platform(Heroku/GCP/Aws...).
 
 ##### After following above steps simple call the url with required query params to send emails
 ###### => URL: http://{host}:{port}/send?to={<enter receiver's mail id here>}&sub={<enter subject of email here>}&dt={<enter email body here>}
@@ -48,3 +48,5 @@ heroku -v
 # Test
 Enter ```npm start``` in terminal/cmd, this should start the server at [``` http://localhost:3000```](http://localhost:3000) if nothing goes wrong. Now copy this url and open in your favourite browser, you will see a page like👇 .
 ![Image](/page.png)
+
+# Deploy On Heroku
