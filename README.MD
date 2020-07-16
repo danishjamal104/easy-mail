@@ -2,7 +2,7 @@
 
 ## Description
 This project is design to simplify the process of sending emails, by providing
-a template which is easy to setup and connet with your email.
+a template which is easy to setup and connect with your email.
 
 ## How It Works?
 1. Fork the repo.
